@@ -2,7 +2,7 @@
 Desafio - React.js
 
 # Desafio Go Imersão Fullcycle
-<img src="https://pt.m.wikipedia.org/wiki/Ficheiro:React-icon.svg alt="React.Js" width="400" align="right" />
+<img src="https://pt.m.wikipedia.org/wiki/Ficheiro:React-icon.svg" alt="React.Js" width="400" align="right" />
 
 ---
 
