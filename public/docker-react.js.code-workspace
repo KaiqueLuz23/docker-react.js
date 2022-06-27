@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\docker-react.js"
+		},
+		{
+			"path": "..\\.docker"
+		},
+		{
+			"path": "..\\.vscode"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\src"
+		}
+	],
+	"settings": {}
+}
